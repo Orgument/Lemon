@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+/* *******CLASS SELECTORS******* */
+.lemon {
+    background-color: green;
+}
+
+.tangerine {
+    background-color: red;
+}
+
+.circuler {
+    border-radius: 100%;
+}
+
+/* *******ID SELECTORS******* */
+
+#heading {
+    color: blue;
+}
